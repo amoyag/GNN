@@ -1,0 +1,23 @@
+# data from https://cancer.sanger.ac.uk/cosmic/browse/tissue?wgs=off&sn=breast&ss=all&hn=carcinoma&sh=basal_(triple-negative)_carcinoma&in=t&src=tissue&all_data=n
+
+
+TP53
+PIK3CA
+RB1
+BRCA1 
+PTEN 
+ATM 
+EGFR 
+BRAF 
+BRCA2 
+AKT1 
+PIK3R1 
+KDR 
+NF1 
+ERBB4 
+JAK2 
+NOTCH1 
+TRRAP 
+MET 
+ALK 
+CDKN2A
