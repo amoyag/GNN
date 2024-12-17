@@ -125,5 +125,12 @@ The field continues to evolve rapidly. Current trends include:
 
 ## Further Reading
 
-Muzio, G., O’Bray, L. & Borgwardt, K. Biological network analysis with deep learning. Brief. Bioinform. 22, 1515–1530 (2020).
+[Muzio, G., O’Bray, L. & Borgwardt, K. Biological network analysis with deep learning. Brief. Bioinform. 22, 1515–1530 (2020).](https://academic.oup.com/bib/article/22/2/1515/5964185)
+
+[Greener, J. G., Kandathil, S. M., Moffat, L. & Jones, D. T. A guide to machine learning for biologists. Nat. Rev. Mol. Cell Biol. 23, 40–55 (2022).](https://www.nature.com/articles/s41580-021-00407-0)
+
+[Camacho, D. M., Collins, K. M., Powers, R. K. & Costello, J. C. Next-Generation Machine Learning for Biological Networks. Cell 173, 1581 1592 (2018).](https://www.sciencedirect.com/science/article/pii/S0092867418305920?via%3Dihub)
+
+[LeCun, Y., Bengio, Y. & Hinton, G. Deep learning. Nature 521, 436–444 (2015).](https://www.nature.com/articles/nature14539)
+
   
