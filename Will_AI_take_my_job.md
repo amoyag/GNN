@@ -36,3 +36,9 @@ Despite rapid advances, AI still has significant limitations in understanding co
 5. Skills Obsolescence
 The rapid evolution of AI technology means that specific technical skills can become outdated quickly. Biomedical engineers might find themselves constantly needing to relearn tools and techniques, potentially at the expense of developing deeper expertise in core engineering principles.
 
+## Further reading
+["AI Won't Take Your Job, a Person Using AI Will"—Yes, You Using AI Will Replace You Not Using It.](https://www.thealgorithmicbridge.com/p/ai-wont-take-your-job-a-person-using)
+
+[The impact of artificial intelligence on employment: the role of virtual agglomeration](https://www.nature.com/articles/s41599-024-02647-9)
+
+[How Will Artificial Intelligence Affect Jobs 2024-2030](https://www.nexford.edu/insights/how-will-ai-affect-jobs)
